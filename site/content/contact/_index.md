@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/screenshot-2023-10-20-at-6.32.18 am.jpg
+logo: img/screenshot-2023-10-20-at-6.38.51 am.jpg
 contact_entries:
   - heading: Location
     text: 3153 Lynn Avenue, South San Francisco, California 94080
