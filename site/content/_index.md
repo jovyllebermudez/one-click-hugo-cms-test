@@ -1,6 +1,7 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: The Remnant
+subtitle: "\"Let the light of God's wisdom illuminate your path, and the words
+  of our prophesies be your guiding star.\""
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Remnant?
