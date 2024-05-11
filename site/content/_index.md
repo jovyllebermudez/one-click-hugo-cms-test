@@ -1,7 +1,7 @@
 ---
 title: Vyns And Tiney
-subtitle: "\"Let the light of God's wisdom illuminate your path, and the words
-  of our prophesies be your guiding star.\""
+subtitle: '"The greatest happiness you can have is knowing that you are loved
+  for who you are." - Leo Tolstoy'
 image: img/freestocks-y9mwkerhycu-unsplash.jpg
 blurb:
   heading: " "
